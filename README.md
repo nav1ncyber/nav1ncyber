@@ -7,7 +7,7 @@
 
   *Aspiring Security Analyst | Cybersecurity | IT Infrastructure*
 
-  <a href="[https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN](https://www.linkedin.com/in/navin-jeganathan-724121336/)/">
+  <a href="https://www.linkedin.com/in/navin-jeganathan-724121336/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:newkidnav@gmail.com">
