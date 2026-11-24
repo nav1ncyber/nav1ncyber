@@ -16,11 +16,9 @@
 
 ### About Me
 
-I'm a second-year **Computer Science Co-op student at the University of Guelph**, interested in **IT support, systems and infrastructure, and defensive cybersecurity**. I enjoy troubleshooting technical issues, understanding how systems work, and turning what I learn into reproducible projects with clear documentation.
+I'm a second-year Computer Science Co-op student at the University of Guelph, focused on IT support, infrastructure, and defensive cybersecurity. I build hands-on labs to understand how systems operate, troubleshoot technical issues, and investigate security events.
 
-My experience combines university programming coursework, a hands-on cloud security monitoring lab, and previous programming tutoring. I bring a practical, methodical approach to learning new tools and explaining technical ideas.
-
-**Currently seeking Winter 2027 co-op / internship opportunities** in IT Support, Help Desk, IT Operations, Infrastructure, and Cybersecurity/SOC.
+**Seeking Winter 2027 co-op opportunities** in IT Support, IT Operations, Infrastructure, Networking, and Security Operations (SOC).
 
 ### Featured Project
 
@@ -34,12 +32,12 @@ My experience combines university programming coursework, a hands-on cloud secur
 
 *Actual Azure Workbook output from my security monitoring lab.*
 
-Created a cloud-based Windows monitoring lab to explore how authentication events can be collected, queried, and visualized.
+Built a cloud-based Windows monitoring lab to collect authentication telemetry, investigate failed sign-ins, and visualize source-IP geolocations.
 
 - **Configured:** An Azure-hosted Windows virtual machine and Log Analytics security-event workflow.
 - **Investigated:** Failed Windows authentication events (Event ID 4625), including source IP addresses, timestamps, and network logon type.
 - **Visualized:** Geographic results using a KQL-powered Azure Workbook and IP geolocation watchlist.
-- **Documented:** An observed snapshot with **437 events mapped to Huế, Vietnam** and **2 mapped to Brooklyn, United States**, including the limitations of event counts and IP geolocation.
+- **Documented:** An observed snapshot with **437 events mapped to Huế, Vietnam** and **2 mapped to Brooklyn, United States**, with clear limitations: event counts are not confirmed intrusions, and IP geolocation is approximate.
 
 [**Read the technical walkthrough and findings**](https://github.com/nav1ncyber/azure-sentinel-threat-map)
 
@@ -54,17 +52,15 @@ Created a cloud-based Windows monitoring lab to explore how authentication event
 | **Fundamentals** | Debugging, object-oriented programming, dynamic memory management |
 | **Productivity** | Microsoft Excel, Word, PowerPoint |
 
-*Skills reflect coursework, previous tutoring, and personal lab work; they are not claims of professional cybersecurity employment.*
 
-### Background
+### Experience
 
-- **Computer Science (Honours, Co-op)** — University of Guelph
-- **Private Programming Tutor** — Ultimate Coders (2023): supported beginner learners with Python fundamentals and introductory HTML/CSS
-- **Customer-facing and team experience** — communication, dependability, and problem-solving in fast-paced environments
+**Private Programming Tutor · Ultimate Coders (2023)**  
+Helped beginner learners understand Python fundamentals and introductory HTML/CSS through clear explanations and guided practice.
 
-### How I Work
+**Customer Service & Teamwork**  
+Developed communication, prioritization, and problem-solving skills in a fast-paced customer-facing environment.
 
-I aim to make technical projects understandable and verifiable: **define the objective → build the environment → test and investigate → record evidence → explain limitations**. My repositories focus on the work performed and the reasoning behind it, rather than just finished screenshots.
 
 ---
 
@@ -74,6 +70,5 @@ I aim to make technical projects understandable and verifiable: **define the obj
 
 [LinkedIn](https://www.linkedin.com/in/navin-jeganathan-724121336/) · [University Email](mailto:jeganatn@uoguelph.ca) · [Repositories](https://github.com/nav1ncyber?tab=repositories)
 
-<sub>Practical projects. Clear documentation. Continuous improvement.</sub>
 
 </div>
