@@ -1,67 +1,73 @@
 <div align="center">
-  <img width="100%" alt="Navin Jeganathan — Cybersecurity and IT Operations" src="https://capsule-render.vercel.app/api?type=rect&color=0:081521,50:10354A,100:176B80&height=155&section=header&text=Navin%20Jeganathan&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SECURITY%20OPERATIONS%20%7C%20IT&descColor=D5F3FB&descSize=15&descAlignY=71" />
 
-  **Computer Science (Co-op) · University of Guelph**
+<img width="100%" alt="Navin Jeganathan — IT Support, Infrastructure and Cybersecurity" src="https://capsule-render.vercel.app/api?type=rect&color=0:081521,50:10354A,100:176B80&height=150&section=header&text=Navin%20Jeganathan&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=IT%20SUPPORT%20%7C%20INFRASTRUCTURE%20%7C%20CYBERSECURITY&descColor=D5F3FB&descSize=14&descAlignY=72" />
 
-  Aspiring Security Analyst · Defensive Security · IT Operations
+**Computer Science (Co-op) · University of Guelph**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-jeganathan-724121336/)
-  [![Email](https://img.shields.io/badge/Email-Contact-163B50?style=flat-square&logo=gmail&logoColor=white)](mailto:newkidnav@gmail.com)
-  [![Featured project](https://img.shields.io/badge/Featured-View%20SOC%20Lab-177B84?style=flat-square&logo=github&logoColor=white)](https://github.com/nav1ncyber/azure-sentinel-threat-map)
+*IT Support & Infrastructure | Security Operations | Technical Problem-Solving*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-jeganathan-724121336/)
+[![Email](https://img.shields.io/badge/University%20Email-Contact-163B50?style=flat-square&logo=gmail&logoColor=white)](mailto:jeganatn@uoguelph.ca)
+[![Project](https://img.shields.io/badge/Featured%20Project-Azure%20SOC%20Lab-177B84?style=flat-square&logo=github&logoColor=white)](https://github.com/nav1ncyber/azure-sentinel-threat-map)
+
 </div>
 
 ---
 
 ### About Me
 
-I'm a **Computer Science Co-op student at the University of Guelph** with a growing focus on **security monitoring, defensive cybersecurity, and IT operations**.
+I'm a second-year **Computer Science Co-op student at the University of Guelph**, interested in **IT support, systems and infrastructure, and defensive cybersecurity**. I enjoy troubleshooting technical issues, understanding how systems work, and turning what I learn into reproducible projects with clear documentation.
 
-I enjoy understanding *why* a system behaves the way it does—following an event from its original log through analysis and visualization, testing configurations, and documenting results others can verify. I'm building a portfolio around practical technical work, clear communication, and continuous learning.
+My experience combines university programming coursework, a hands-on cloud security monitoring lab, and previous programming tutoring. I bring a practical, methodical approach to learning new tools and explaining technical ideas.
 
-**Seeking:** Winter 2027 internship/co-op opportunities in **SOC / Security Analysis, Cybersecurity, IT Support, and IT Infrastructure**.
+**Currently seeking Winter 2027 co-op / internship opportunities** in IT Support, Help Desk, IT Operations, Infrastructure, and Cybersecurity/SOC.
 
 ### Featured Project
 
 #### [Azure Sentinel Threat Map — Windows Authentication Monitoring](https://github.com/nav1ncyber/azure-sentinel-threat-map)
 
-**Microsoft Azure · Microsoft Sentinel · Log Analytics · Windows Security Events · KQL · Azure Workbooks**
+**Azure · Windows VM · Log Analytics · Microsoft Sentinel · KQL · Azure Workbooks**
 
-Built an educational cloud-based security monitoring lab to explore how authentication telemetry can be collected, analyzed, and displayed geographically.
+Created a cloud-based Windows monitoring lab to explore how authentication events can be collected, queried, and visualized.
 
-- **Built:** An Azure-hosted Windows environment and monitoring workflow leading to a geographic Azure Workbook visualization.
-- **Observed:** 437 mapped records associated with an IP geolocation in Huế, Vietnam, and 2 with Brooklyn, United States, at the time of capture.
-- **Analyzed:** What aggregated event counts can—and cannot—tell us about possible suspicious authentication activity. Map points are not proof of distinct attacks or verified attacker locations.
-- **Documented:** Architecture, lab workflow, findings, limitations, safety considerations, and next steps.
+- **Configured:** An Azure-hosted Windows virtual machine and Log Analytics security-event workflow.
+- **Investigated:** Failed Windows authentication events (Event ID 4625), including source IP addresses, timestamps, and network logon type.
+- **Visualized:** Geographic results using a KQL-powered Azure Workbook and IP geolocation watchlist.
+- **Documented:** An observed snapshot with **437 events mapped to Huế, Vietnam** and **2 mapped to Brooklyn, United States**, including the limitations of event counts and IP geolocation.
 
-**[Explore the project, evidence, and technical write-up](https://github.com/nav1ncyber/azure-sentinel-threat-map)**
+[**Read the technical walkthrough and findings**](https://github.com/nav1ncyber/azure-sentinel-threat-map)
 
-### Technical Experience & Learning
+### Technical Skills
 
-| Area | Practical exposure |
+| Focus | Tools and concepts |
 | :--- | :--- |
-| **Security monitoring** | Microsoft Sentinel, Azure Log Analytics, Windows security telemetry, KQL-based analysis and visualizations |
-| **Cloud & systems** | Microsoft Azure, Windows VM setup, RDP in a controlled lab, Windows Event Viewer |
-| **Programming** | C and C++ coursework |
-| **Workflow & productivity** | Git/GitHub, technical documentation, Microsoft Excel, Word, PowerPoint |
-| **Currently developing** | Vulnerability assessment and remediation lab; further security investigation and system-hardening skills |
+| **IT & systems** | Windows, Linux/Unix, troubleshooting, command-line workflows |
+| **Cloud & security lab** | Microsoft Azure, Log Analytics, Microsoft Sentinel, Windows Security Events, KQL |
+| **Programming** | C, Java, Python; HTML and CSS |
+| **Development tools** | Git/GitHub, GCC, Make, Visual Studio Code |
+| **Fundamentals** | Debugging, object-oriented programming, dynamic memory management |
+| **Productivity** | Microsoft Excel, Word, PowerPoint |
 
-*The list distinguishes hands-on coursework and personal lab experience from professional employment or certifications.*
+*Skills reflect coursework, previous tutoring, and personal lab work; they are not claims of professional cybersecurity employment.*
 
-### How I Document Projects
+### Background
 
-I aim to make each repository useful to someone reviewing the work—not just a place to store screenshots:
+- **Computer Science (Honours, Co-op)** — University of Guelph
+- **Private Programming Tutor** — Ultimate Coders (2023): supported beginner learners with Python fundamentals and introductory HTML/CSS
+- **Customer-facing and team experience** — communication, dependability, and problem-solving in fast-paced environments
 
-**Objective → Environment & Architecture → Implementation → Evidence & Results → Limitations → Lessons Learned**
+### How I Work
 
-My focus is on making technical decisions understandable, testing results where possible, and being transparent about what is complete versus still in progress.
+I aim to make technical projects understandable and verifiable: **define the objective → build the environment → test and investigate → record evidence → explain limitations**. My repositories focus on the work performed and the reasoning behind it, rather than just finished screenshots.
 
 ---
 
 <div align="center">
 
-  **Open to Winter 2027 co-op and internship opportunities in Canada**
+**Open to Winter 2027 co-op and internship opportunities in Ontario and the GTA**
 
-  [LinkedIn](https://www.linkedin.com/in/navin-jeganathan-724121336/) · [Email](mailto:newkidnav@gmail.com) · [GitHub projects](https://github.com/nav1ncyber?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/navin-jeganathan-724121336/) · [University Email](mailto:jeganatn@uoguelph.ca) · [Repositories](https://github.com/nav1ncyber?tab=repositories)
 
-  <sub>Learning through hands-on projects. Documenting the process. Improving with every build.</sub>
+<sub>Practical projects. Clear documentation. Continuous improvement.</sub>
+
 </div>
