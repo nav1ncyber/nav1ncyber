@@ -28,6 +28,12 @@ My experience combines university programming coursework, a hands-on cloud secur
 
 **Azure · Windows VM · Log Analytics · Microsoft Sentinel · KQL · Azure Workbooks**
 
+<a href="https://github.com/nav1ncyber/azure-sentinel-threat-map">
+  <img src="https://raw.githubusercontent.com/nav1ncyber/azure-sentinel-threat-map/main/assets/01-azure-threat-map.webp" alt="Microsoft Azure Workbook showing 437 and 2 mapped authentication records" width="700" />
+</a>
+
+*Actual Azure Workbook output from my security monitoring lab.*
+
 Created a cloud-based Windows monitoring lab to explore how authentication events can be collected, queried, and visualized.
 
 - **Configured:** An Azure-hosted Windows virtual machine and Log Analytics security-event workflow.
