@@ -44,21 +44,17 @@ I'm especially interested in what happens behind the scenes: how security events
 
 ### Selected Projects
 
-I'm preparing technical write-ups and project repositories. Each published project will include a clear explanation, evidence of the work, and steps to reproduce or explore it.
+My projects focus on practical security monitoring, infrastructure, and software problem-solving. Each write-up explains what I built, the evidence collected, and the limitations of the results.
 
-<!--
-PROJECT SLOT 1 — REMOVE THIS COMMENT WRAPPER WHEN THE REPOSITORY IS READY.
+#### 01 — Azure Sentinel Threat Map | Security Monitoring
+**Tools:** Microsoft Azure · Microsoft Sentinel · Windows Security Events · KQL · Azure Workbooks
 
-#### 01 — Azure Security Monitoring & Threat Map
-**Tools:** Microsoft Azure, Microsoft Sentinel, [list only what you actually used]
+[View project repository](https://github.com/nav1ncyber/azure-sentinel-threat-map)
 
-[Repository](PASTE_PROJECT_REPOSITORY_URL) · [Documentation](PASTE_README_OR_WRITEUP_URL)
-
-- **Goal:** [What security question or problem did you explore?]
-- **What I built:** [Your exact setup and work]
-- **Evidence:** [Screenshots, map, sample queries, or other relevant results]
-- **What I learned:** [One specific, honest takeaway]
--->
+- **Objective:** Collect and visualize Windows authentication telemetry in a cloud-based security monitoring lab.
+- **What I built:** An Azure-hosted Windows VM and log-analysis workflow that maps approximate source-IP geolocations of failed sign-in events.
+- **Evidence:** Workbook results showed 437 records associated with Huế, Vietnam and 2 with Brooklyn, United States. These are observed events, not confirmed successful attacks.
+- **What I learned:** How SIEM-style log analysis and geographic visualization can support an investigation, while recognizing the limits of IP geolocation.
 
 <!--
 PROJECT SLOT 2 — REMOVE THIS COMMENT WRAPPER WHEN THE REPOSITORY IS READY.
