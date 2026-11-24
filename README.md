@@ -1,102 +1,67 @@
-
 <div align="center">
-
-  <img width="100%" alt="Navin Jeganathan — Security, Systems, Networks" src="https://capsule-render.vercel.app/api?type=rect&color=0:081521,50:10354A,100:176B80&height=170&section=header&text=Navin%20Jeganathan&fontColor=FFFFFF&fontSize=44&fontAlignY=39&desc=SECURITY%20%2F%20SYSTEMS%20%2F%20NETWORKS&descColor=D5F3FB&descSize=15&descAlignY=69" />
+  <img width="100%" alt="Navin Jeganathan — Cybersecurity and IT Operations" src="https://capsule-render.vercel.app/api?type=rect&color=0:081521,50:10354A,100:176B80&height=155&section=header&text=Navin%20Jeganathan&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SECURITY%20OPERATIONS%20%7C%20IT&descColor=D5F3FB&descSize=15&descAlignY=71" />
 
   **Computer Science (Co-op) · University of Guelph**
 
-  *Aspiring Security Analyst | Cybersecurity | IT Infrastructure*
+  Aspiring Security Analyst · Defensive Security · IT Operations
 
-  <a href="https://www.linkedin.com/in/navin-jeganathan-724121336/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:newkidnav@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20Touch-163B50?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-jeganathan-724121336/)
+  [![Email](https://img.shields.io/badge/Email-Contact-163B50?style=flat-square&logo=gmail&logoColor=white)](mailto:newkidnav@gmail.com)
+  [![Featured project](https://img.shields.io/badge/Featured-View%20SOC%20Lab-177B84?style=flat-square&logo=github&logoColor=white)](https://github.com/nav1ncyber/azure-sentinel-threat-map)
 </div>
 
 ---
 
 ### About Me
 
-I'm a second-year Computer Science Co-op student at the **University of Guelph**, working toward a career in **defensive cybersecurity and IT operations**.
+I'm a **Computer Science Co-op student at the University of Guelph** with a growing focus on **security monitoring, defensive cybersecurity, and IT operations**.
 
-I'm especially interested in what happens behind the scenes: how security events are detected, how networks communicate, and how software can make technical work more efficient. My goal is to build practical projects that demonstrate not just *what* I made, but *how* it works, *why* I built it, and *what* I learned.
+I enjoy understanding *why* a system behaves the way it does—following an event from its original log through analysis and visualization, testing configurations, and documenting results others can verify. I'm building a portfolio around practical technical work, clear communication, and continuous learning.
 
-**Currently seeking:** Winter 2027 co-op opportunities in cybersecurity, security operations, IT support, and infrastructure.
+**Seeking:** Winter 2027 internship/co-op opportunities in **SOC / Security Analysis, Cybersecurity, IT Support, and IT Infrastructure**.
 
-### Areas of Focus
+### Featured Project
 
-| `01 / DETECT` | `02 / CONNECT` | `03 / BUILD` |
-| :--- | :--- | :--- |
-| **Security Operations** | **Networking & Infrastructure** | **Software & Data** |
-| Cloud monitoring, security logs, and threat visibility | Network fundamentals, configuration, and troubleshooting | Programming, data organization, and problem-solving |
+#### [Azure Sentinel Threat Map — Windows Authentication Monitoring](https://github.com/nav1ncyber/azure-sentinel-threat-map)
 
-### Technical Toolkit
+**Microsoft Azure · Microsoft Sentinel · Log Analytics · Windows Security Events · KQL · Azure Workbooks**
 
-| | |
+Built an educational cloud-based security monitoring lab to explore how authentication telemetry can be collected, analyzed, and displayed geographically.
+
+- **Built:** An Azure-hosted Windows environment and monitoring workflow leading to a geographic Azure Workbook visualization.
+- **Observed:** 437 mapped records associated with an IP geolocation in Huế, Vietnam, and 2 with Brooklyn, United States, at the time of capture.
+- **Analyzed:** What aggregated event counts can—and cannot—tell us about possible suspicious authentication activity. Map points are not proof of distinct attacks or verified attacker locations.
+- **Documented:** Architecture, lab workflow, findings, limitations, safety considerations, and next steps.
+
+**[Explore the project, evidence, and technical write-up](https://github.com/nav1ncyber/azure-sentinel-threat-map)**
+
+### Technical Experience & Learning
+
+| Area | Practical exposure |
 | :--- | :--- |
-| **Programming** | `C` · `Java` · `C++ (coursework)` · `Python` · `HTML` |
-| **Tools & Environment** | `Linux` · `Git/GitHub` · `Microsoft Excel` |
-| **Currently Exploring** | `Microsoft Azure` · `Microsoft Sentinel` · `Cisco Packet Tracer` |
-| **Career Interests** | `SOC / Security Analysis` · `IT Support` · `Network & Cloud Infrastructure` |
+| **Security monitoring** | Microsoft Sentinel, Azure Log Analytics, Windows security telemetry, KQL-based analysis and visualizations |
+| **Cloud & systems** | Microsoft Azure, Windows VM setup, RDP in a controlled lab, Windows Event Viewer |
+| **Programming** | C and C++ coursework |
+| **Workflow & productivity** | Git/GitHub, technical documentation, Microsoft Excel, Word, PowerPoint |
+| **Currently developing** | Vulnerability assessment and remediation lab; further security investigation and system-hardening skills |
 
-### Selected Projects
+*The list distinguishes hands-on coursework and personal lab experience from professional employment or certifications.*
 
-My projects focus on practical security monitoring, infrastructure, and software problem-solving. Each write-up explains what I built, the evidence collected, and the limitations of the results.
+### How I Document Projects
 
-#### 01 — Azure Sentinel Threat Map | Security Monitoring
-**Tools:** Microsoft Azure · Microsoft Sentinel · Windows Security Events · KQL · Azure Workbooks
+I aim to make each repository useful to someone reviewing the work—not just a place to store screenshots:
 
-[View project repository](https://github.com/nav1ncyber/azure-sentinel-threat-map)
+**Objective → Environment & Architecture → Implementation → Evidence & Results → Limitations → Lessons Learned**
 
-- **Objective:** Collect and visualize Windows authentication telemetry in a cloud-based security monitoring lab.
-- **What I built:** An Azure-hosted Windows VM and log-analysis workflow that maps approximate source-IP geolocations of failed sign-in events.
-- **Evidence:** Workbook results showed 437 records associated with Huế, Vietnam and 2 with Brooklyn, United States. These are observed events, not confirmed successful attacks.
-- **What I learned:** How SIEM-style log analysis and geographic visualization can support an investigation, while recognizing the limits of IP geolocation.
-
-<!--
-PROJECT SLOT 2 — REMOVE THIS COMMENT WRAPPER WHEN THE REPOSITORY IS READY.
-
-#### 02 — Network Design & Troubleshooting
-**Tools:** Cisco Packet Tracer, [list only what you actually used]
-
-[Repository](PASTE_PROJECT_REPOSITORY_URL) · [Documentation](PASTE_README_OR_WRITEUP_URL)
-
-- **Goal:** [Network requirements or troubleshooting scenario]
-- **What I built:** [Topology, devices, configuration]
-- **Evidence:** [Network diagram, tests, configuration samples]
-- **What I learned:** [One specific, honest takeaway]
--->
-
-<!--
-PROJECT SLOT 3 — REMOVE THIS COMMENT WRAPPER WHEN THE REPOSITORY IS READY.
-
-#### 03 — Data Sorting & Processing in C++
-**Tools:** C++, [add tools you used]
-
-[Repository](PASTE_PROJECT_REPOSITORY_URL) · [Documentation](PASTE_README_OR_WRITEUP_URL)
-
-- **Goal:** [What the class assignment asked the program to do]
-- **Input:** [For example, CSV data exported from Google Sheets — only if accurate]
-- **What I built:** [Sorting approach and functionality]
-- **Evidence:** [Example input/output, test cases, or screenshots]
-- **What I learned:** [One specific, honest takeaway]
--->
-
-### How I Approach Projects
-
-I value work that someone else can **understand, test, and reproduce**. As I publish my projects, I'm aiming to document the setup, decisions, results, and limitations—not just upload the final files.
+My focus is on making technical decisions understandable, testing results where possible, and being transparent about what is complete versus still in progress.
 
 ---
 
 <div align="center">
 
-  **Interested in connecting?**
+  **Open to Winter 2027 co-op and internship opportunities in Canada**
 
-  I'm open to conversations about Winter 2027 co-op opportunities in security operations, IT support, and infrastructure.
+  [LinkedIn](https://www.linkedin.com/in/navin-jeganathan-724121336/) · [Email](mailto:newkidnav@gmail.com) · [GitHub projects](https://github.com/nav1ncyber?tab=repositories)
 
-  <sub>Building practical skills, one well-documented project at a time.</sub>
-
+  <sub>Learning through hands-on projects. Documenting the process. Improving with every build.</sub>
 </div>
